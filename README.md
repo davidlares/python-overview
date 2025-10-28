@@ -1,9 +1,9 @@
-## DavidPython
+## Python overview
 
-Ejercicios prácticos de Python en su version 3.x, desde un hello World hasta POO y funcionalidades avanzadas como las lambdas.
+Practical exercises in Python version 3.x, from Hello World to OOP and advanced features such as lambdas.
 
-## Créditos
-[David E Lares S](https://davidlares.com)
+## Credits
+[David Lares S](https://davidlares.com)
 
-## Licencia
+## License
 [MIT](https://opensource.org/licenses/MIT)
